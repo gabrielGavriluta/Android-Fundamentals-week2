@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">layoutFundamentals</string>
+    <string name="orange_textView">This is an orange TextView</string>
+    <string name="green_textView">This is a green TextView</string>
+    <string name="blue_textView">This is a blue TextView</string>
+    <string name="sampleButton_text">This is a button</string>
+    <string name="greenButton_text">This is a green button</string>
+    <string name="editText_text">This is an EditText</string>
+    <string name="newEditText_text">This is a new EditText</string>
+    <string name="checkBox_text">Notify me :)</string>
+    <string name="switch_text">Auto backup</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
